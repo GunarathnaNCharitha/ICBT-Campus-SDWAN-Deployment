@@ -5,16 +5,17 @@
 
 🔗 [ICBT Campus Website](https://icbt.lk)  
 
+**Note: All configs, IPs, and diagrams in this repo are **sanitized**. No customer data is exposed**. 
 ---
 
-## 🌍 Project Overview
+## Project Overview
 As Lead Engineer, I designed and deployed a **secure, segmented SD-WAN architecture** for **ICBT Campus** to connect multiple education centers to the headquarters.  
 
 The solution leveraged **SonicWall firewalls** at each site to deliver **encrypted site-to-site connectivity, application-aware routing, and network segmentation**, ensuring security, scalability, and centralized visibility across all campuses.  
 
 ---
 
-## 🎯 Business Challenges
+## Business Challenges
 - Fragmented networks with no unified security framework.  
 - Limited visibility into inter-campus traffic flows.  
 - Inconsistent security policies across branches.  
@@ -23,7 +24,7 @@ The solution leveraged **SonicWall firewalls** at each site to deliver **encrypt
 
 ---
 
-## 🛠️ Solution Implemented
+## Solution Implemented
 A **SonicWall SD-WAN–based design** was implemented to unify and secure connectivity:  
 - **SonicWall firewalls** deployed at HQ and branch sites.  
 - **SD-WAN overlay** for intelligent path selection and failover.  
@@ -33,17 +34,17 @@ A **SonicWall SD-WAN–based design** was implemented to unify and secure connec
 
 ---
 
-## 📊 Outcomes & Benefits
-- 🔒 **Secure and encrypted SD-WAN** linking HQ and campuses.  
-- 🌐 **Standardized security policies** across all education centers.  
-- 📈 **Application-aware routing** optimized WAN performance.  
-- 🛡️ **Segmentation of student, staff, and admin traffic**.  
-- ⚡ **Resilient connectivity** with seamless failover and performance monitoring.  
-- 🕵️ **Improved visibility** into threats and inter-campus traffic.  
+## Outcomes & Benefits
+- **Secure and encrypted SD-WAN** linking HQ and campuses.  
+- **Standardized security policies** across all education centers.  
+- **Application-aware routing** optimized WAN performance.  
+- **Segmentation of student, staff, and admin traffic**.  
+- **Resilient connectivity** with seamless failover and performance monitoring.  
+- **Improved visibility** into threats and inter-campus traffic.  
 
 ---
 
-## 📈 My Key Contributions
+## My Key Contributions
 - Designed the **end-to-end SD-WAN and segmentation architecture**.  
 - Deployed **SonicWall firewalls** across HQ and all branch campuses.  
 - Configured **BGP-based routing and VPN overlays** for branch integration.  
@@ -52,6 +53,3 @@ A **SonicWall SD-WAN–based design** was implemented to unify and secure connec
 - Trained ICBT IT teams on **SD-WAN management and troubleshooting**.  
 
 ---
-
-
-> ⚠️ **Note:** All configs and diagrams are sanitized. No sensitive customer data is exposed.  
