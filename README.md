@@ -1,5 +1,7 @@
 # Secure SD-WAN and Multi-Campus Connectivity – ICBT Campus  
-**Role:** Lead Network & Security Engineer (AcSys Networks)  
+<p>
+  <img src="https://img.shields.io/badge/Role-Lead%20Network%20%26%20Security%20Engineer-blue" width="350">
+</p>
 
 🔗 [ICBT Campus Website](https://icbt.lk)  
 
@@ -51,12 +53,5 @@ A **SonicWall SD-WAN–based design** was implemented to unify and secure connec
 
 ---
 
-## 🖼️ Repository Contents
-- `diagrams/topology.png` – SD-WAN + segmentation topology.  
-- `configs/` – Sanitized SonicWall firewall configs (SD-WAN, VPN, VLANs).  
-- `docs/runbook.md` – Branch deployment and rollback plan.  
-- `lab/test-plan.md` – WAN failover, segmentation, and IPS validation tests.  
-
----
 
 > ⚠️ **Note:** All configs and diagrams are sanitized. No sensitive customer data is exposed.  
